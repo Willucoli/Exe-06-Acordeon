@@ -1,5 +1,5 @@
 # Exercicio 06 - Carrossel com imagem no JS
-"Este é um exercício do módulo JS intermediário, onde o desafio era criar um arcodeon no FAQ de perguntas e resposta, onde ao cliclar na pergunta a resposta aparece e a cor da seta mudaria, e so poderia mostrar uma resposta de cada vez, se o usuario cliclar em outra pergunta, a resposta anterior aberta precisa fechar
+Este é um exercício do módulo JS intermediário, onde o desafio era criar um acordeão no FAQ de perguntas e respostas, onde ao clicar na pergunta, a resposta aparece e a cor da seta muda, e só poderia mostrar uma resposta de cada vez. Se o usuário clicar em outra pergunta, a resposta anterior aberta precisa fechar.
 
 Abaixo um gif do projeto finalizado
 
